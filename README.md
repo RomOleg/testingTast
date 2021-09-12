@@ -8,3 +8,5 @@
   5. DB - Postgress
   6. ps -модуль управления DB Postgress
   7. Node.js
+
+Для тестирования запрос был использован Postman
