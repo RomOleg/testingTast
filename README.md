@@ -1,10 +1,10 @@
-Тестовое задание
+Тестовое задание. 
 
-Был использован 
-  React
-  Bootstrap
-  Express
-  Axios
-  DB - Postgress
-  ps -модуль управления DB Postgress
-  Node.js
+Был использован:
+  1. React
+  2. Bootstrap
+  3. Express
+  4. Axios
+  5. DB - Postgress
+  6. ps -модуль управления DB Postgress
+  7. Node.js
