@@ -8,4 +8,4 @@ router.delete('/rout/:id', routController.deleteRout)
 
 module.exports = router
 
-// testing 
+// test
